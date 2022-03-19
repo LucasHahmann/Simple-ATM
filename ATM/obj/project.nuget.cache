@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NsNxto64utK3SVmNyFAzC+AJ7mY8vVsQOGkFlcWXPLJ9mFlNTZeZRbFjTZ39C0AMwKIIR7XogDiAZoUSp4rh5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lucas\\source\\repos\\ATM\\ATM\\ATM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lucas\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.115.5\\stub.system.data.sqlite.core.netstandard.1.0.115.5.nupkg.sha512",
+    "C:\\Users\\Lucas\\.nuget\\packages\\system.data.sqlite.core\\1.0.115.5\\system.data.sqlite.core.1.0.115.5.nupkg.sha512"
+  ],
+  "logs": []
+}
